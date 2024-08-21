@@ -1,6 +1,6 @@
 ## Seja bem-vindo(a)! ✨
 #### Sou a Mari e estudo Egenharia de Software (QA) 🌠
-Repositório de projetos pessoais e independentes em testes funcionais e de integração!
+Repositório de projetos pessoais e independentes em testes de validação e integração, focamos na funcionalidade!
 
 <div style="text-align:left">
 <img src="https://images.ctfassets.net/q5gr0s7pk997/Th8458WoDPgh1xOcYjv4Q/b2328d538c7d499853bfff3ac11540c5/Cypress.png" height="40" width="40" alt="cypress logo"  />
