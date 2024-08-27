@@ -1,6 +1,6 @@
 ## Seja bem-vindo(a)! ✨
-#### Sou a Mari e sou Egenheira QA Jr. 🌠
-Repositório de projetos pessoais e independentes em testes de validação e integração, focados na funcionalidade!
+### Sou a Mari e sou Egenheira QA Jr. 🌠
+#### Este é um repositório de projetos pessoais e independentes em testes de validação e integração, focados na funcionalidade!
 
 <div style="text-align:left">
 <img src="https://images.ctfassets.net/q5gr0s7pk997/Th8458WoDPgh1xOcYjv4Q/b2328d538c7d499853bfff3ac11540c5/Cypress.png" height="40" width="40" alt="cypress logo"  />
