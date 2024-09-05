@@ -1,5 +1,5 @@
 ## Seja bem-vindo(a)! ✨
-#### Sou a Mari e sou Engenheira QA Jr. 🌠
+#### Sou a Mari, Engenheira QA Jr. 🌠
 #### Este é um repositório de projetos pessoais e independentes em testes de validação e integração, focados na funcionalidade!
 #
 <div style="text-align:left">
