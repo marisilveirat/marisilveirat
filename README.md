@@ -4,8 +4,8 @@
 #
 <div style="text-align:left">
 <img src="https://images.ctfassets.net/q5gr0s7pk997/Th8458WoDPgh1xOcYjv4Q/b2328d538c7d499853bfff3ac11540c5/Cypress.png" height="40" width="40" alt="cypress logo"  />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/robotframework.svg" height="40" width="52" alt="robot logo"  />
-<img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" height="40" width="40" alt="selenium logo"  />
+<img width="611" height="246" alt="image" src="https://github.com/user-attachments/assets/255980fc-4331-49e6-8227-f34a617f6ef3" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/4686409b-aa45-4889-8ffe-19d82964e4cc" />
 <img alt="WebdriverIO" src="https://webdriver.io/assets/images/robot-3677788dd63849c56aa5cb3f332b12d5.svg" width="34">
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" width="52" alt="postman logo"  />
   <img alt="WebdriverIO" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40">
