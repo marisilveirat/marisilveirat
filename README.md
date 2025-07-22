@@ -4,8 +4,8 @@
 #
 <div style="text-align:left">
 <img src="https://images.ctfassets.net/q5gr0s7pk997/Th8458WoDPgh1xOcYjv4Q/b2328d538c7d499853bfff3ac11540c5/Cypress.png" height="40" width="40" alt="cypress logo"  />
-<img src="https://github.com/user-attachments/assets/c895530c-a257-459d-a71c-967681cb8835"  width="40" />
-<img src="https://github.com/user-attachments/assets/a446d65d-c5a7-4387-9653-4f387c288102" width="40" />
+<img src="https://github.com/user-attachments/assets/c895530c-a257-459d-a71c-967681cb8835"  width="45" />
+<img src="https://github.com/user-attachments/assets/a446d65d-c5a7-4387-9653-4f387c288102" width="47" />
 <img alt="WebdriverIO" src="https://webdriver.io/assets/images/robot-3677788dd63849c56aa5cb3f332b12d5.svg" width="34">
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" width="52" alt="postman logo"  />
 
